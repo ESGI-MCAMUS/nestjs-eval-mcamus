@@ -22,3 +22,5 @@ services:
       POSTGRES_USER: root
       POSTGRES_PASSWORD: root
       POSTGRES_DB: nestjs_db
+    ports:
+      - "5432:5432"
