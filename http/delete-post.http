@@ -1,0 +1,5 @@
+
+@uuid = bf0d3af7-9ae6-4054-b69a-8473411bfdde
+DELETE http://localhost:3000/posts/{{uuid}}
+
+
